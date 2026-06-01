@@ -13,7 +13,7 @@ A complete **full-stack Library Management System** designed for librarians to m
 1. **Copy to XAMPP**: Place project in `C:\xampp\htdocs\library_system\`
 2. **Create Database**: Import `database/database.sql` in phpMyAdmin
 3. **Start Services**: Run Apache & MySQL from XAMPP Control Panel
-4. **Access**: Open http://localhost/library_system/
+4. **Access**: Open http://localhost/library/
 5. **Login**: Use email `admin@library.com` and password `admin123`
 
 ## 📋 Features
